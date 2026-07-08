@@ -109,22 +109,16 @@ python3 scanner.py localhost -o csv
 
 
 ---
-## 📸 Screenshots
+![Banner](https://raw.githubusercontent.com/AyushSharma-arch/Port-Scanner/main/screenshots/banner.png)
 
-### Generate Banner
-![Generate Banner](./screenshots/banner.png)
+![Scan Output](https://raw.githubusercontent.com/AyushSharma-arch/Port-Scanner/main/screenshots/scan-output.png)
 
-### Generate Scan Output
-![Generate Scan Output](./screenshots/scan-output.png)
+![JSON Report](https://raw.githubusercontent.com/AyushSharma-arch/Port-Scanner/main/screenshots/json-report.png)
 
-### Generate JSON Report
-![Generate JSON Report](./screenshots/json-report.png)
+![TXT Report](https://raw.githubusercontent.com/AyushSharma-arch/Port-Scanner/main/screenshots/txt-report.png)
 
-### Generate TXT Report
-![Generate TXT Report](./screenshots/txt-report.png)
+![CSV Report](https://raw.githubusercontent.com/AyushSharma-arch/Port-Scanner/main/screenshots/csv-report.png)
 
-### Generate CSV Report
-![Generate CSV Report](./screenshots/csv-report.png)
 
 ## 📄 License
 
