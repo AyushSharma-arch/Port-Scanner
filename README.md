@@ -112,24 +112,19 @@ python3 scanner.py localhost -o csv
 ## 📸 Screenshots
 
 ### Generate Banner
-
-![Generate Banner](screenshots/banner.png)
+![Generate Banner](./screenshots/banner.png)
 
 ### Generate Scan Output
-
-![Generate Scan Output](screenshots/scan-output.png)
+![Generate Scan Output](./screenshots/scan-output.png)
 
 ### Generate JSON Report
-
-![Generate JSON Report](screenshots/json-report.png)
+![Generate JSON Report](./screenshots/json-report.png)
 
 ### Generate TXT Report
-
-![Generate TXT Report](screenshots/txt-report.png)
+![Generate TXT Report](./screenshots/txt-report.png)
 
 ### Generate CSV Report
-
-![Generate CSV Report](screenshots/csv-report.png)
+![Generate CSV Report](./screenshots/csv-report.png)
 
 ## 📄 License
 
