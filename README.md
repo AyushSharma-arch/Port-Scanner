@@ -112,24 +112,19 @@ python3 scanner.py localhost -o csv
 ## 📸 Screenshots
 
 ### Banner
-
-![Banner](Screenshots/banner.png)
+![Banner](screenshots/banner.png)
 
 ### Scan Output
-
-![Scan Output](Screenshots/scan-output.png)
+![Scan Output](screenshots/scan-output.png)
 
 ### JSON Report
-
-![JSON Report](Screenshots/json-report.png)
+![JSON Report](screenshots/json-report.png)
 
 ### TXT Report
-
-![TXT Report](Screenshots/txt-report.png)
+![TXT Report](screenshots/txt-report.png)
 
 ### CSV Report
-
-![CSV Report](Screenshots/csv-report.png)
+![CSV Report](screenshots/csv-report.png)
 
 ## 📄 License
 
