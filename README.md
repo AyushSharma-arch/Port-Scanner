@@ -109,7 +109,29 @@ python3 scanner.py localhost -o csv
 
 
 ---
+## 📸 Screenshots
+
+### Banner
+
+![Banner](Screenshots/banner.png)
+
+### Scan Output
+
+![Scan Output](Screenshots/scan-output.png)
+
+### JSON Report
+
+![JSON Report](Screenshots/json-report.png)
+
+### TXT Report
+
+![TXT Report](Screenshots/txt-report.png)
+
+### CSV Report
+
+![CSV Report](Screenshots/csv-report.png)
 
 ## 📄 License
 
 This project is licensed under the MIT License.
+
