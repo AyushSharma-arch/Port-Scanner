@@ -1,0 +1,17 @@
+{
+    "target": "localhost",
+    "generated": "08-07-2026 22:19:42",
+    "total_open_ports": 2,
+    "results": [
+        {
+            "port": 22,
+            "service": "ssh",
+            "status": "OPEN"
+        },
+        {
+            "port": 80,
+            "service": "http",
+            "status": "OPEN"
+        }
+    ]
+}
