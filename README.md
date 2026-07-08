@@ -111,20 +111,20 @@ python3 scanner.py localhost -o csv
 ---
 ## 📸 Screenshots
 
-### Banner
-![Banner](screenshots/banner.png)
+### Genrate Banner
+![Genrate Banner](screenshots/genrate_banner.png)
 
-### Scan Output
-![Scan Output](screenshots/scan-output.png)
+### Genrate Scan Output
+![Genrat Scan Output](screenshots/genrate_scan-output.png)
 
-### JSON Report
-![JSON Report](screenshots/json-report.png)
+### Genrate JSON Report
+![Genrate JSON Report](screenshots/genrate_json-report.png)
 
-### TXT Report
-![TXT Report](screenshots/txt-report.png)
+### Genrate TXT Report
+![Genrate TXT Report](screenshots/genrate_txt-report.png)
 
-### CSV Report
-![CSV Report](screenshots/csv-report.png)
+### Genrate CSV Report
+![Genrate CSV Report](screenshots/genrate_csv-report.png)
 
 ## 📄 License
 
