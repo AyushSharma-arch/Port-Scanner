@@ -1,100 +1,62 @@
 # 🚀 Python Port Scanner
 
-A Python-based networking project developed to demonstrate clean code architecture, modular programming, command-line interface (CLI), logging, and report generation.
+A professional multi-threaded Python Port Scanner developed for cybersecurity learning and network security testing.
 
 ---
 
-## 📌 Features
+# ✨ Features
 
-- Professional Command-Line Interface (CLI)
-- Modular Python Project Structure
-- Colored Console Output
-- Host Validation
-- JSON Report Generation
-- TXT Report Generation
-- CSV Report Generation
-- Logging Support
-- Clean & Readable Code
-- Resume & GitHub Ready
+- 🚀 Fast Multi-threaded Port Scanning
+- 🎨 Professional CLI Interface
+- 📡 Service & Banner Detection
+- 📄 JSON Report Generation
+- 📄 TXT Report Generation
+- 📄 CSV Report Generation
+- 📝 Log File Generation
+- ⚡ Clean and Easy-to-use Interface
 
 ---
 
-## 📂 Project Structure
+# 📂 Project Structure
 
-```text
-Professional-Port-Scanner/
+```
+PortScanner/
 │── scanner.py
-│── config.py
 │── banner.py
-│── utils.py
+│── config.py
 │── logger.py
 │── report.py
-│── requirements.txt
+│── utils.py
 │── README.md
-│── .gitignore
 │
 ├── logs/
-└── reports/
+├── reports/
+└── screenshots/
 ```
 
 ---
 
-## ⚙️ Requirements
+# 💻 Operating System
 
-- Python 3.10+
-- colorama
-- pyfiglet
-- tqdm
+This project was developed and tested on:
 
-Install the required packages:
+- Kali Linux Rolling
+- Python 3.13
+- Linux Terminal
 
-```bash
-pip install -r requirements.txt
-```
+It may also work on:
 
----
-
-## ▶️ Usage
-
-Run the application:
-
-```bash
-python3 scanner.py localhost
-```
-
-Generate JSON report:
-
-```bash
-python3 scanner.py localhost -o json
-```
-
-Generate TXT report:
-
-```bash
-python3 scanner.py localhost -o txt
-```
-
-Generate CSV report:
-
-```bash
-python3 scanner.py localhost -o csv
-```
+- Ubuntu
+- Debian
+- Parrot OS
 
 ---
 
-## 📊 Project Output
-
-- Professional CLI Interface
-- Log File Generation
-- JSON Reports
-- TXT Reports
-- CSV Reports
-
----
-
-## 🛠️ Technologies Used
+# 🛠 Technologies Used
 
 - Python
+- Threading
+- Socket Programming
 - Colorama
 - PyFiglet
 - tqdm
@@ -103,48 +65,111 @@ python3 scanner.py localhost -o csv
 
 ---
 
-## 👨‍💻 Author
+# 📥 Installation
 
-**Ayush Sharma**
+## Clone Repository
+
+```bash
+git clone https://github.com/AyushSharma-arch/Port-Scanner.git
+```
+
+## Open Project Folder
+
+```bash
+cd Port-Scanner
+```
+
+## Install Required Packages
+
+```bash
+pip3 install colorama pyfiglet tqdm
+```
+
+## Run Tool
+
+```bash
+python3 scanner.py
+```
 
 ---
 
-## 📸 Screenshots
+# 📖 Usage
 
-### Banner
+Basic Scan
+
+```bash
+python3 scanner.py
+```
+
+Generate JSON Report
+
+```bash
+python3 scanner.py localhost -o json
+```
+
+Generate TXT Report
+
+```bash
+python3 scanner.py localhost -o txt
+```
+
+Generate CSV Report
+
+```bash
+python3 scanner.py localhost -o csv
+```
+
+---
+
+# 📸 Screenshots
+
+## Banner
 
 ![Banner](screenshots/banner.png)
 
-### Scan Output
+## Scan Output
 
 ![Scan Output](screenshots/scan-output.png)
 
-### JSON Report
+## JSON Report
 
 ![JSON Report](screenshots/json-report.png)
 
-### TXT Report
+## TXT Report
 
 ![TXT Report](screenshots/txt-report.png)
 
-### CSV Report
+## CSV Report
 
 ![CSV Report](screenshots/csv-report.png)
 
+---
+
+# 🔗 GitHub Repository
+
+Repository Link:
+
+https://github.com/AyushSharma-arch/Port-Scanner
 
 ---
-![Banner](https://raw.githubusercontent.com/AyushSharma-arch/Port-Scanner/main/screenshots/banner.png)
 
-![Scan Output](https://raw.githubusercontent.com/AyushSharma-arch/Port-Scanner/main/screenshots/scan-output.png)
+# ⚠️ Disclaimer
 
-![JSON Report](https://raw.githubusercontent.com/AyushSharma-arch/Port-Scanner/main/screenshots/json-report.png)
+This tool is developed only for educational purposes and authorized security testing.
 
-![TXT Report](https://raw.githubusercontent.com/AyushSharma-arch/Port-Scanner/main/screenshots/txt-report.png)
+Do not use it against systems without permission.
 
-![CSV Report](https://raw.githubusercontent.com/AyushSharma-arch/Port-Scanner/main/screenshots/csv-report.png)
+---
 
+# 👨‍💻 Author
 
-## 📄 License
+**Ayush Sharma**
+
+GitHub:
+https://github.com/AyushSharma-arch
+
+---
+
+# 📄 License
 
 This project is licensed under the MIT License.
-
