@@ -107,6 +107,30 @@ python3 scanner.py localhost -o csv
 
 **Ayush Sharma**
 
+---
+
+## 📸 Screenshots
+
+### Banner
+
+![Banner](screenshots/banner.png)
+
+### Scan Output
+
+![Scan Output](screenshots/scan-output.png)
+
+### JSON Report
+
+![JSON Report](screenshots/json-report.png)
+
+### TXT Report
+
+![TXT Report](screenshots/txt-report.png)
+
+### CSV Report
+
+![CSV Report](screenshots/csv-report.png)
+
 
 ---
 ![Banner](https://raw.githubusercontent.com/AyushSharma-arch/Port-Scanner/main/screenshots/banner.png)
